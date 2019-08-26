@@ -4,7 +4,7 @@ Página responsiva del curso de Udemy "Desarrollo Web Completo" sobre un blog de
 
 ## Comenzando 🚀
 
-Ver el proyecto en [festec-front1](https://miguelarriola.github.io/udemydwc-cafe/)
+Ver el proyecto en [udemydwc-cafe](https://miguelarriola.github.io/udemydwc-cafe/)
 
 ## Construido con 🛠️
 
