@@ -4,7 +4,7 @@ Página responsiva del curso de Udemy "Desarrollo Web Completo" sobre un blog de
 
 ## Comenzando 🚀
 
-Ver el proyecto en [dwc-cafe](https://miguelarriola.github.io/udemydwc-cafe/)
+Ver el proyecto en [dwc-cafe](https://miguelarriola.github.io/dwc-cafe/)
 
 ## Construido con 🛠️
 
